@@ -1,2 +1,7 @@
-# Hello-World-by-Kaylany
-Hello World em c# aula pc1 
+# Hello World by Kaylany
+
+Programação Csharp.
+
+-------
+
+Esse conteúdo são as minhas primeiras tentativas de trabalhar com a linguagem Csharp.
